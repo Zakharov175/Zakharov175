@@ -1,7 +1,15 @@
-# 👋 Hi, I'm Bruno Castro!
-
-🎓 Full Stack Developer  
-📚 Currently learning: Testing with Jest and Vitest, Clean Architecture, MVC, and other best practices.
+<table>
+  <tr>
+    <td width="150">
+      <img src="https://github.com/user-attachments/assets/e2a9b182-5a0b-4d88-874b-48a8bd05d744" alt="Bruno GIF" width="150">
+    </td>
+    <td>
+      <h1>👋 Hi, I'm Bruno Castro!</h1>
+      <p>🎓 Full Stack Developer<br/>
+      📚 Currently learning: Testing with Jest and Vitest, Clean Architecture, MVC, and other best practices.</p>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Stacks and Tools
 
