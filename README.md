@@ -5,7 +5,6 @@
         <h1>👋 Hi, I'm Bruno Castro!</h1>
         <p>
           🎓 Full Stack Developer<br/>
-          📚 Currently learning: Testing with Jest and Vitest, Clean Architecture, MVC, and other best practices.
         </p>
       </div>
     </td>
@@ -23,5 +22,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" title="MySQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" title="MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="Jest" title="Jest"/>
-<img src="https://svglogo.co/logo/react-query.svg" height="30" alt="React Query" title="React Query"/>
 </div>
