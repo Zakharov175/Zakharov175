@@ -1,4 +1,16 @@
-
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="border: none;">
+      <div align="center">
+        <h1>👋 Hi, I'm Bruno Castro!</h1>
+        <p>
+          🎓 Full Stack Developer<br/>
+          📚 Currently learning: Testing with Jest and Vitest, Clean Architecture, MVC, and other best practices.
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Stacks and Tools
 
