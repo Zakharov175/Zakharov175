@@ -1,4 +1,4 @@
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse;width: -webkit-fill-available">
   <tr>
     <td style="border: none; width=100%">
       <div align="center">
