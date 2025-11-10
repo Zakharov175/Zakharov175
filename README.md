@@ -1,6 +1,6 @@
 <table style="border: none; border-collapse: collapse;">
   <tr>
-    <td style="border: none;">
+    <td style="border: none; width=100%">
       <div align="center">
         <h1>👋 Hi, I'm Bruno Castro!</h1>
         <p>
@@ -23,5 +23,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" title="MySQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" title="MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="Jest" title="Jest"/>
-<img src="https://seeklogo.com/vector-logo/435663/react-query-logo-png-vector-svg-free-download.svg" height="30" alt="React Query" title="React Query"/>
+<img src="https://svglogo.co/logo/react-query.svg" height="30" alt="React Query" title="React Query"/>
 </div>
