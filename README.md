@@ -1,19 +1,4 @@
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td width="140" valign="top" style="border: none;">
-      <img src="https://github.com/user-attachments/assets/e2a9b182-5a0b-4d88-874b-48a8bd05d744" alt="Bruno GIF" width="140" style="border: none;">
-    </td>
-    <td style="border: none;">
-      <div align="center">
-        <h1>👋 Hi, I'm Bruno Castro!</h1>
-        <p>
-          🎓 Full Stack Developer<br/>
-          📚 Currently learning: Testing with Jest and Vitest, Clean Architecture, MVC, and other best practices.
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
+
 
 ## 🛠️ Stacks and Tools
 
