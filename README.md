@@ -2,9 +2,9 @@
   <h1>👋 Hi, I'm Bruno Castro!</h1>
   <p>🎓 Full Stack Developer</p>
 </div>
-
+<div align="center">
 ## 🛠️ Stacks and Tools
-
+</div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" style="margin-right:8px;" alt="TypeScript" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" style="margin-right:8px;" alt="JavaScript" title="JavaScript"/>
