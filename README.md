@@ -5,7 +5,7 @@
 
 ## 🛠️ Stacks and Tools
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" style="margin-right:8px;" alt="TypeScript" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" style="margin-right:8px;" alt="JavaScript" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" style="margin-right:8px;" alt="Node.js" title="Node.js"/>
